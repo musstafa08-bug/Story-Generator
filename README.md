@@ -1,5 +1,5 @@
 # Story-Generator
-Create a model using Harry Potter 7 books corpus.
+Create a dataset by merging all seven books of Harry Potter and create a model which tries to generate texts
 
 <b> Input Data:</b>
 ![Input data](input.png)
